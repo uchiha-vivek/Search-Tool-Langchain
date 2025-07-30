@@ -84,7 +84,8 @@ Different LLM have different ways of creating chat instance
 
 For more info visit : [Langchain Docs](https://python.langchain.com/docs/introduction/)
 
-
+CONTRIBUTOR : Vivek Sharma - Founding Engineer @ Ally Solutions
+[Linkedin](https://www.linkedin.com/in/vivekuchiha/)
  
 
 

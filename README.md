@@ -34,7 +34,7 @@ git clone https://github.com/uchiha-vivek/Search-Tool-Langchain.git
 
 Navigate to the directory
 ```bash
-Search-Tool-Langchain
+cd Search-Tool-Langchain
 ```
 
 Make virtual environment (Here for Windows)
